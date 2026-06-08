@@ -1,6 +1,6 @@
-# CERN Food Notes
-
+## Poivrons survival sentences
 > Ce plat contient-il des poivrons ?
+
 > Peut-on supprimer les poivrons de ce plat ?
 
 ## Legend
@@ -19,8 +19,6 @@
 * 👌👌 **Seazen Buffet** - closes at 22:30, open every day, decent all-you-can-eat (~35€ dinner + large beer). Huge selection (sushi, cheese, fried food, pasta, grill) plus a moderate choice of vegetables, desserts, and pizza. Overall quality is solid, though nothing really stands out. Book ahead because it’s always packed.
 * 👌 **Andiamo** - closes at 21:50, open every day, italian/pizza (~20€). If your group is larger than 6 you must book in advance or they may turn you away even when the restaurant is empty. Quite expensive for the food quality (portion sizes are fine). It gets cold inside. Nutella pizza dessert works well for sharing among 8 people.
 
----
-
 ## <ins>Saint-Genis-Pouilly</ins>
 
 * 👌👌 **ÔBrasseur** - kitchen closes at 22:00 (drinks until 1am), open every day (Google says closed on SUN), pub. Extremely crowded, desserts are huge portions (the Mont Blanc has a lot of whipped cream)
@@ -33,8 +31,6 @@
 * ❓ **Bella Ciao** - closed SUN, recommended by Chiara Alice and Martina
 * ❓ **O Churrasco (Tio Manuel)** - the Portuguese place, just order picanha and you’re set
 
----
-
 ## <ins>Ferney-Voltaire</ins>
 
 * 👌👌 **L'Azzurra** - closes at 22:00, open every day, pizza/italian. They speak Italian, large place but still worth booking ahead
@@ -43,8 +39,6 @@
 * 👌 **Los Gringos** - closes at 01:00, closed THU, mexican (10-15€). Generous portions (house chili, chili with potatoes, chili wrap), chili itself is not spicy at all, but the dishes marked spicy actually are
 * ❓ **Cafe du Soleil** - right in front of L'Azzurra, vaguely remember someone recommending it
 
----
-
 ## <ins>Champs-Fréchets</ins> (LHCb)
 
 * 👌👌👌 **Chez Mamy** - closes at 22:30, closed SUN, Thai/Chinese à la carte (~20€). Generous portions (pad thai, noodles with crevettes). Many dishes come with lots of bell peppers, ask to remove them if needed
@@ -52,21 +46,15 @@
 * 👌👌 **Champs Fréchets Kebab** - closes at 23:00, closed SUN and MON, kebab pita/sandwich 14 CHF (single size, roughly equivalent to a large Italian one, definitely filling), canned drinks 4 CHF
 * 👌👌 **Cafe de Mategnin** - closes at 23:30, closed SUN and MON, simple fondue + potatoes + beer around 40 CHF. Beware that the "flan caramel" is not actual flan but more like a pudding. BOOK AHEAD at least 1 day!!
 
----
-
 ## <ins>Gex - Point 5</ins>
 
 * ❓ **L'incontro** - closes at 22:00, closed SUN and MON (good pizzeria recommended by Chiara Alice)
-
----
 
 ## <ins>Gex</ins>
 
 * ❓ **Il Vesuvio** - closes at 22:30, closed WED (recommended by Mario Antonelli)
 * ❓ **Pizzeria ToF** - closes at 22:00, closed SUN and MON (or something like that)
 * ❓ **the kebab place in front of the social housing blocks** - Mario Antonelli recommendation
-
----
 
 ## <ins>Meyrin</ins>
 
@@ -77,12 +65,12 @@
 
 ## <ins>Genève</ins>
 
-### <ins>Cornavin</ins>
+### Cornavin
 
 * 👌👌👌 **Il Centro di Napoli** - closes at 22:30, closed SUN, excellent Neapolitan pizza (soft dough, quality ingredients), specialty is the "pizza al padellino", pizza ~25 CHF, total bill around 40 CHF, 5 min walk from the station
 * 👌👌 **Bains des Pâquis** - closes at 20:30, open every day, fondue (~30 CHF). 20 min walk from the station
 
-### <ins>??</ins>
+### ??
 
 * 🪦 **Spikisi** - permanently closed
 * ❓ **Cafe de la Limite** - closes at 22:00, closed SUN, BOOK 2 DAYS IN ADVANCE EVEN FOR SMALL GROUPS, known for cordon rouge (cordon bleu with giant horse meat); when booking you must specify how many cordon rouges you want
