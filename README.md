@@ -28,8 +28,8 @@
 * 👌👌 **Mahana Poke** - closes 14:30 / 22:00, open every day, poké (13-16€). Medium poke size is enough
 * 👌 **Charly's** - closes 1am, closed MON, drinks only, no food
 * 🙄 **Bois Joly** - dinner hours 19:00-21:00, closed FRI and SUN, fondue chalet. Expensive, they rip you off with the starters
-* ❓ **Bella Ciao** - closed SUN, recommended by Chiara Alice and Martina
-* ❓ **O Churrasco (Tio Manuel)** - the Portuguese place, just order picanha and you’re set
+* ❓ **Bella Ciao** - closed SUN, recommended by Chiara Alice and Martina. Few places, reservation recommended, if you book a table in Italian, they will find you a spot. 
+* ❓ **O Churrasco (Tio Manuel)** - the Portuguese place, just order picanha and you’re set.
 
 ## <ins>Ferney-Voltaire</ins>
 
@@ -45,6 +45,7 @@
 * 👌👌 **Boulangerie Marie Blachère** - closes at 20:30, closed SUN, bakery with 40cm filled baguettes + drink (8€). Also does pizza by the slice (approved by our Neapolitan student) and breakfast pastries
 * 👌👌 **Champs Fréchets Kebab** - closes at 23:00, closed SUN and MON, kebab pita/sandwich 14 CHF (single size, roughly equivalent to a large Italian one, definitely filling), canned drinks 4 CHF
 * 👌👌 **Cafe de Mategnin** - closes at 23:30, closed SUN and MON, simple fondue + potatoes + beer around 40 CHF. Beware that the "flan caramel" is not actual flan but more like a pudding. BOOK AHEAD at least 1 day!!
+* ❓ **Les Saveurs Abidjanaises** - african reastaurant, closed MON, less then 30EUR. Generous portions (recommended by Chiara Alice) 
 
 ## <ins>Gex - Point 5</ins>
 
@@ -81,4 +82,4 @@
 
 ## <ins>Florimont</ins>
 
-* ❓ **??** - raclette in a mountain chalet
+* ❓ **Refuge de Florimont** - located in the mountains behind Gex, 30' by car from Prevessin CERN Site. raclette, fondue, or good meat in a mountain chalet. 
