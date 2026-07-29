@@ -53,7 +53,7 @@
 
 ## <ins>Gex</ins>
 
-* ❓ **Il Vesuvio** - closes at 22:30, closed WED (recommended by Mario Antonelli)
+* ❓ **Il Vesuvio** - closes at 22:30, closed WED (recommended by Mario Antonelli, Marco Mancini, estimate 30€ pizza+beer)
 * ❓ **Pizzeria ToF** - closes at 22:00, closed SUN and MON (or something like that)
 * ❓ **the kebab place in front of the social housing blocks** - Mario Antonelli recommendation
 
